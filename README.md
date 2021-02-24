@@ -7,3 +7,4 @@ line 32-82 index.html.  Proper indentation. separated sections.  named sections 
 line 33 index.html  Moved the img from css to html.  added alt attribute.  Added class to img same as div it is in.
 
 
+used outer div box for .content and .benefits to apply changes instead of duplicating css 
