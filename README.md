@@ -9,3 +9,6 @@ line 33 index.html  Moved the img from css to html.  added alt attribute.  Added
 
 used outer div box for .content and .benefits to apply changes instead of duplicating css 
 
+ 
+
+ changed h3 to h2
