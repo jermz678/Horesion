@@ -12,3 +12,4 @@ used outer div box for .content and .benefits to apply changes instead of duplic
  
 ![image](https://user-images.githubusercontent.com/78326815/109404964-fcb45580-7930-11eb-895c-6757a88c7a14.png)
 ![image](https://user-images.githubusercontent.com/78326815/109404980-39804c80-7931-11eb-88c2-65e8a04be7e4.png)
+![image](https://user-images.githubusercontent.com/78326815/109405004-73515300-7931-11eb-912d-44b7742e1e12.png)
