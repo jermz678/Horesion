@@ -11,4 +11,4 @@ used outer div box for .content and .benefits to apply changes instead of duplic
 
  
 
- changed h3 to h2
+ ![image](https://user-images.githubusercontent.com/78326815/109404956-e0b0b400-7930-11eb-9366-a59b24e2e769.png)
