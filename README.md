@@ -10,6 +10,5 @@ line 33 index.html  Moved the img from css to html.  added alt attribute.  Added
 used outer div box for .content and .benefits to apply changes instead of duplicating css 
 
  
-
- ![image](https://user-images.githubusercontent.com/78326815/109404956-e0b0b400-7930-11eb-9366-a59b24e2e769.png)
 ![image](https://user-images.githubusercontent.com/78326815/109404964-fcb45580-7930-11eb-895c-6757a88c7a14.png)
+![image](https://user-images.githubusercontent.com/78326815/109404980-39804c80-7931-11eb-88c2-65e8a04be7e4.png)
